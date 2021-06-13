@@ -1,0 +1,11 @@
+C:\Users\Estudio-PC\OneDrive\NICO\UTN\PAV 1\2019\Parcial\Ejercicio Parcial\ParcialPav3k7_2019\ParcialPav\ParcialPav\bin\Debug\ParcialPav.exe.config
+C:\Users\Estudio-PC\OneDrive\NICO\UTN\PAV 1\2019\Parcial\Ejercicio Parcial\ParcialPav3k7_2019\ParcialPav\ParcialPav\bin\Debug\ParcialPav.exe
+C:\Users\Estudio-PC\OneDrive\NICO\UTN\PAV 1\2019\Parcial\Ejercicio Parcial\ParcialPav3k7_2019\ParcialPav\ParcialPav\bin\Debug\ParcialPav.pdb
+C:\Users\Estudio-PC\OneDrive\NICO\UTN\PAV 1\2019\Parcial\Ejercicio Parcial\ParcialPav3k7_2019\ParcialPav\ParcialPav\obj\Debug\ParcialPav.csprojAssemblyReference.cache
+C:\Users\Estudio-PC\OneDrive\NICO\UTN\PAV 1\2019\Parcial\Ejercicio Parcial\ParcialPav3k7_2019\ParcialPav\ParcialPav\obj\Debug\ParcialPav.AltaEquipo.resources
+C:\Users\Estudio-PC\OneDrive\NICO\UTN\PAV 1\2019\Parcial\Ejercicio Parcial\ParcialPav3k7_2019\ParcialPav\ParcialPav\obj\Debug\ParcialPav.Principal.resources
+C:\Users\Estudio-PC\OneDrive\NICO\UTN\PAV 1\2019\Parcial\Ejercicio Parcial\ParcialPav3k7_2019\ParcialPav\ParcialPav\obj\Debug\ParcialPav.Properties.Resources.resources
+C:\Users\Estudio-PC\OneDrive\NICO\UTN\PAV 1\2019\Parcial\Ejercicio Parcial\ParcialPav3k7_2019\ParcialPav\ParcialPav\obj\Debug\ParcialPav.csproj.GenerateResource.cache
+C:\Users\Estudio-PC\OneDrive\NICO\UTN\PAV 1\2019\Parcial\Ejercicio Parcial\ParcialPav3k7_2019\ParcialPav\ParcialPav\obj\Debug\ParcialPav.csproj.CoreCompileInputs.cache
+C:\Users\Estudio-PC\OneDrive\NICO\UTN\PAV 1\2019\Parcial\Ejercicio Parcial\ParcialPav3k7_2019\ParcialPav\ParcialPav\obj\Debug\ParcialPav.exe
+C:\Users\Estudio-PC\OneDrive\NICO\UTN\PAV 1\2019\Parcial\Ejercicio Parcial\ParcialPav3k7_2019\ParcialPav\ParcialPav\obj\Debug\ParcialPav.pdb

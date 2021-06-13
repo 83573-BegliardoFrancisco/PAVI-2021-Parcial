@@ -1,0 +1,10 @@
+Sentencias SQL
+
+SELECT MAX(Id) FROM Equipos
+SELECT * FROM Categorias
+SELECT * FROM Posiciones
+SELECT * FROM Jugadores WHERE Id=@IdJugador
+INSERT INTO Equipos VALUES(@NombreEquipo,@FechaCreacion)
+INSERT INTO JugadoresPorEquipos VALUES(@IdJugador,@IdEquipo, @FechaAsignacion)
+SELECT Edad, count(Id) AS 'Cantidad' FROM Jugadores GROUP BY Edad
+SELECT * FROM Jugadores
