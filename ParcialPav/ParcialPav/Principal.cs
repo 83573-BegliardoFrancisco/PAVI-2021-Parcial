@@ -16,5 +16,14 @@ namespace ParcialPav
         {
             InitializeComponent();
         }
+
+        private void altaDeEquipoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AltaEquipo ventana = new AltaEquipo();
+            ventana.Show();
+         
+        }
+
+  
     }
 }

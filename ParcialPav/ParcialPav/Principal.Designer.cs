@@ -59,6 +59,7 @@
             this.altaDeEquipoToolStripMenuItem.Name = "altaDeEquipoToolStripMenuItem";
             this.altaDeEquipoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.altaDeEquipoToolStripMenuItem.Text = "Alta de Equipo";
+            this.altaDeEquipoToolStripMenuItem.Click += new System.EventHandler(this.altaDeEquipoToolStripMenuItem_Click);
             // 
             // reporte1ToolStripMenuItem
             // 
